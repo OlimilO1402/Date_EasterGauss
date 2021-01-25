@@ -1,7 +1,7 @@
 VERSION 5.00
 Begin VB.Form Form1 
    BorderStyle     =   3  'Fester Dialog
-   Caption         =   "Form1"
+   Caption         =   "Date Of Easter-Sunday due to Gauss"
    ClientHeight    =   615
    ClientLeft      =   45
    ClientTop       =   390
@@ -15,7 +15,7 @@ Begin VB.Form Form1
    ShowInTaskbar   =   0   'False
    StartUpPosition =   3  'Windows-Standard
    Begin VB.CommandButton BtnCalcEasterdate 
-      Caption         =   "Oster-Sonntag"
+      Caption         =   "Easter-sunday:"
       Height          =   375
       Left            =   1800
       TabIndex        =   1
@@ -41,7 +41,7 @@ Begin VB.Form Form1
       Width           =   1095
    End
    Begin VB.Label Label1 
-      Caption         =   "Jahr:"
+      Caption         =   "Year:"
       Height          =   255
       Left            =   120
       TabIndex        =   2

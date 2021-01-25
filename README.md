@@ -1,2 +1,5 @@
 # Syst_EasterGauss
- Calculates the easter date due to Gauss
+## Calculates the date of easter-sunday due to Gauss
+Project started nov 2010  
+
+![EasterGauss Image](Resources/EasterGauss.png "EasterGauss Image")
