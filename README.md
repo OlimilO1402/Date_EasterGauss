@@ -1,4 +1,4 @@
-# Syst_EasterGauss
+# Date_EasterGauss
 ## Calculates the date of easter-sunday due to Gauss
 Project started nov 2010  
 
